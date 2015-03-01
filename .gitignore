@@ -1,0 +1,25 @@
+# Build directories
+Build/
+
+# Output directories
+Bin/
+
+#Libraries Build
+Lib/
+
+# Misc.
+configure*
+*~
+*.swp
+.DS_Store
+*.log
+*.bak
+Thumbs.db
+
+# binaries
+*.exe
+*.idb
+*.ilk
+*.pdb
+*.dll
+*.lib
